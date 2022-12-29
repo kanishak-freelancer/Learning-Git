@@ -1,0 +1,1 @@
+let input = prompt("Enter your age")
